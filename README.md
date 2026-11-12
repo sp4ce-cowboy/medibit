@@ -4,8 +4,8 @@
 
 **An automatic pill dispenser that helps elderly people take the right medicine on time.**<br>
 A micro:bit drives a DC motor that pulls a slider under the pill compartments, with an LED and a
-buzzer as the reminder. Built for the InnoBit Challenge 2019 by a team from VRMC, Victoria Junior
-College, and placed in the top 10.
+buzzer as the reminder. Built for the InnoBit Challenge 2019 by a team from the Victoria Robotics and
+Makers Club (VRMC), Victoria Junior College, and placed in the top 10.
 
 [![micro:bit](https://img.shields.io/badge/micro%3Abit-v1-00ED00)](https://docs.google.com/presentation/d/1kmN--ZmC08iaTyS4nli78rkQZKpe0RPj2X4i8qXdSUY/edit?usp=sharing)
 
@@ -18,7 +18,7 @@ College, and placed in the top 10.
 > [Claude Opus 5.5](https://docs.anthropic.com/en/docs/claude-code) in Nov 2026 using my
 > [agentic-repo-analysis](https://github.com/sp4ce-cowboy/agentic-workflows) skill, from the
 > team's slides and my earlier README. The project itself is from 2019. The original README is in
-> **[README-ORIGINAL.md](README-ORIGINAL.md)**. No code survives; the
+> **[README-ORIGINAL.md](README-ORIGINAL.md)**. The
 > [slides](https://docs.google.com/presentation/d/1kmN--ZmC08iaTyS4nli78rkQZKpe0RPj2X4i8qXdSUY/edit?usp=sharing)
 > include the demo video.
 
@@ -27,7 +27,7 @@ College, and placed in the top 10.
 | | |
 |---|---|
 | **What** | An automated medication dispenser for the elderly: pills are released at the right time, with a light and a sound to prompt the person |
-| **Context** | [InnoBit Challenge 2019](https://www.facebook.com/socialcollider.co/posts/the-innobit-challenge-2019-by-the-good-people-at-leng-kee-cc-youth-club-took-pla/2305099979737200/), as a team from [VRMC](https://vrmc.github.io), Victoria Junior College |
+| **Context** | [InnoBit Challenge 2019](https://www.facebook.com/socialcollider.co/posts/the-innobit-challenge-2019-by-the-good-people-at-leng-kee-cc-youth-club-took-pla/2305099979737200/), as a team from the [Victoria Robotics and Makers Club (VRMC)](https://vrmc.github.io), Victoria Junior College |
 | **Recognition** | One of the top 10 teams |
 | **Stack** | BBC micro:bit, a DC motor, an LED and a buzzer; a Styrofoam prototype |
 
