@@ -27,7 +27,7 @@ Makers Club (VRMC), Victoria Junior College, and placed in the top 10.
 | | |
 |---|---|
 | **What** | An automated medication dispenser for the elderly: pills are released at the right time, with a light and a sound to prompt the person |
-| **Context** | [InnoBit Challenge 2019](https://www.facebook.com/socialcollider.co/posts/the-innobit-challenge-2019-by-the-good-people-at-leng-kee-cc-youth-club-took-pla/2305099979737200/), as a team from the [Victoria Robotics and Makers Club (VRMC)](https://vrmc.github.io), Victoria Junior College |
+| **Context** | [InnoBit Challenge 2019](https://tickikids.com/sg/curious-squirrels/innobit-challenge-2019), a micro:bit hackathon for tech solutions to social issues ([recap](https://www.facebook.com/socialcollider.co/posts/the-innobit-challenge-2019-by-the-good-people-at-leng-kee-cc-youth-club-took-pla/2305099979737200/)), as a team from the [Victoria Robotics and Makers Club (VRMC)](https://vrmc.github.io), Victoria Junior College |
 | **Recognition** | One of the top 10 teams |
 | **Stack** | BBC micro:bit, a DC motor, an LED and a buzzer; a Styrofoam prototype |
 
