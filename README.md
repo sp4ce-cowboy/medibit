@@ -46,7 +46,7 @@ go on. The question: how can we improve medication adherence in the elderly?
 3. A DC motor pulls the slider by a string.
 4. A micro:bit controls the motor, an LED and a buzzer, so the dose comes with a reminder.
 
-## Skills shown
+## Skills covered
 
 | Skill | Where it shows | Docs |
 |---|---|---|
